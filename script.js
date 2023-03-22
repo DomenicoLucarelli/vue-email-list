@@ -20,11 +20,4 @@ const { createApp } = Vue
         console.log(this.emailsArray)
     },
        
-        
-    
-       
-
-
-    
-
-  }).mount('#app')
+}).mount('#app')
